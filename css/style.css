@@ -1,0 +1,68 @@
+
+.reg-section{
+	width: 100%;
+
+}
+.reg-box{
+	width: 550px;
+	margin: 30px auto;
+	background: lightcyan;
+	padding: 50px;
+	border-radius: 5%;
+	border: 2px solid;
+
+
+}
+
+.avater{
+	width: 100%;
+	text-align: center;
+
+}
+
+.avater img{
+	width: 160px;
+	height: 160px;
+	border-radius: 100%;
+}
+.reg-box h2{
+	text-align: center;
+	font-size: 25px;
+	font-weight: 700px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+
+
+}
+.reg-form{
+	width: 100%;
+
+}
+
+.form-div{
+	width: 100%;
+	margin: 15px 0px;
+}
+.form-div label{
+	font-weight: 700;
+	font-size: 15px;
+	display: block;
+	text-transform: uppercase;
+	margin: 0px 0px 4px;
+}
+.form-div .form-info {
+    width: 95%;
+    padding: 10px;
+    font-size: 15px;
+    border: 2px solid;
+
+
+}
+.btn{
+	padding: 12px;
+	width: auto;
+	color: #fff;
+	background: #000;
+	border: 2px solid;
+
+}
